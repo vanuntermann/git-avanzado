@@ -1,0 +1,2 @@
+La idea es que se armen un feature branch y en cada branch se creen un archivo con la definición de una palabra.
+Debería ser un archivo por palabra a definir y el nombre del archivo tiene que ser la palabra cuya definicion contenga ese archivo.
